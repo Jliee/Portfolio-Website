@@ -1,0 +1,16 @@
+
+/* contrast mode */
+body{
+    background-color: #65dcb4;
+}
+
+.dark-mode{
+    background-color: #4d2b25;
+    color: white;
+}
+
+#icons{
+    background-color: white;
+    margin: 0px;
+}
+
